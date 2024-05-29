@@ -1,12 +1,5 @@
 # CGAT
 Alignment app for the MC4R gene
-Para cargar la aplicacion  instalar las librerias sangerseqR y sangeranalyseR
-- remotes::install_github("jonathonthill/sangerseqR", force = TRUE)
-- remotes::install_github("mammerlin/sangeranalyseR")
-Una vez cargadas ejecutar el archivo IdClusters.R
-
-Para ejecutar la app solo ejecutar App.R 
-He dejado en la carpeta secuencias MC4R secuencias de algunos delfines para probar la app
 
 
 ## Instalación
